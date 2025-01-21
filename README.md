@@ -83,7 +83,3 @@ Les contributions sont les bienvenues ! Si vous souhaitez améliorer cette appli
    ```
 5. Créez une Pull Request.
 ---
-
-**Auteur** : [Chaaamah](https://github.com/Chaaamah)
-
-Si vous avez des questions ou des suggestions, n'hésitez pas à ouvrir une issue dans le dépôt.
